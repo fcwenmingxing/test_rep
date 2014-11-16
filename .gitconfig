@@ -1,0 +1,10 @@
+[user]
+	name = fcwenmingxing
+	email = fcwenmingxing@126.com
+[color]
+	diff = auto
+;git diff
+[diff]
+	external = git_diff_wrapper
+[core]
+	pager =

@@ -4,3 +4,4 @@
 add orign_b
 
 add in github dir
+add in tmp dir

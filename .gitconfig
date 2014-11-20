@@ -8,3 +8,5 @@
 	external = git_diff_wrapper
 [core]
 	pager =
+[push]
+	default = simple
